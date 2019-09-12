@@ -1,0 +1,16 @@
+.addBtn{
+    padding-top: 30px ;
+
+}
+iframe{
+    width: 100%;
+    height: 600px;
+}
+
+.div img{
+    width: 50%;
+    height: 50%;
+    box-align: right;
+    background: black;
+}
+
